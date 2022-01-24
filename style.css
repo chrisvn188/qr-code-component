@@ -72,7 +72,7 @@ img{
   border-radius: .7em;
 }
 
-.text-container{
+.card__body{
   padding: 1.5em;
   animation: moveInBottom .5s ease-out;
 }
